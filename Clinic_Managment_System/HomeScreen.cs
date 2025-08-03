@@ -45,8 +45,6 @@ namespace Clinic_Managment_System
             f.Show();
            
         }
-
-
         private List<Button> buttonsToAnimate = new List<Button>(); 
         private int currentButtonIndex = 0; 
 
