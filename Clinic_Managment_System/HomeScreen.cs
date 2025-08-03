@@ -246,10 +246,10 @@ namespace Clinic_Managment_System
             HomeScreen_Load(new Dashboard());
             await Task.Delay(10000);
 
-            string message = await HealthAlertService.GetHealthNewsAsync();
+            /*string message = await HealthAlertService.GetHealthNewsAsync();
             notificationWindow alert = new notificationWindow(message);
             alert.StartPosition = FormStartPosition.CenterScreen;
-            alert.ShowDialog();
+            alert.ShowDialog();*/
         }
     }
 }

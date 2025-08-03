@@ -408,6 +408,9 @@
     <EmbeddedResource Include="MedicinesWindow.resx">
       <DependentUpon>MedicinesWindow.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="notificationWindow.resx">
+      <DependentUpon>notificationWindow.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PatientRegistration.resx">
       <DependentUpon>PatientRegistration.cs</DependentUpon>
     </EmbeddedResource>

@@ -89,10 +89,13 @@ namespace Clinic_Managment_System
                     }
                     catch (Exception ex)
                     {
-                        return $"Error fetching news: {ex.Message}";
+                       return $"Error fetching news: {ex.Message}";
                     }
                 }
             }
+        }
+        private void notificationWindow_Load(object sender, EventArgs e)
+        {
 
         }
     }
