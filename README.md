@@ -24,10 +24,10 @@ The system is designed to manage the **complete patient consultation lifecycle**
 ![Login Window](https://github.com/abdalmuhammad/Clinic_Managment_System/blob/32316d2b033121d3fbdd4b73c230f0fe85d0b13c/Login%20Page.jpg)
 
 ### 🔹 Home Screen
-![Home Screen](images/home.jpeg)
+![Home Screen]()
 
 ### 🔹 Dashboard
-![Dashboard](images/dashboard.jpeg)
+![Dashboard](https://github.com/abdalmuhammad/Clinic_Managment_System/blob/cd9154fd190789ae2a94518535e882d6557d65b6/HomeScreen.jpg)
 
 ---
 
