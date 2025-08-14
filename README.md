@@ -56,10 +56,12 @@ The system is designed to manage the **complete patient consultation lifecycle**
 9. **Turn Screen** – Display token number for patients  
 10. **Dashboard** – Real-time patient & revenue analytics  
 
----
+📜 License
 
-## ⚙️ Installation & Setup
+This project is open-source and available under the MIT License.
 
-1️⃣ Clone the repository  
-```bash
-git clone https://github.com/YourUsername/ClinicManagementSystem.git
+👨‍💻 Author
+
+Muhammad Abdal
+💼 Aspiring Data Scientist & Software Engineer
+📧 Email: abdalmuhammad705@gmail.com
